@@ -31,3 +31,9 @@ cout << "Data ke-" << (i + 1) << ": "; // Memasukkan atau menginputkan nilai dat
 cin >> arr[i]; // Menyimpan nilai data n kedalam array arr
 }
 }
+
+void insertionsort()
+{ // Procedure Insertionsort
+    
+int temp; // Membuat Variable data temporer atau penyimpanan sementara
+int j, i; // Membuat variable j sebagai penanda
